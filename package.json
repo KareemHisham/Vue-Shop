@@ -14,6 +14,10 @@
     "vuex": "^3.6.2"
   },
   "devDependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.34",
+    "@fortawesome/free-brands-svg-icons": "^5.15.2",
+    "@fortawesome/free-solid-svg-icons": "^5.15.2",
+    "@fortawesome/vue-fontawesome": "^2.0.2",
     "@vue/cli-plugin-babel": "^4.5.11",
     "@vue/cli-plugin-eslint": "^4.5.11",
     "@vue/cli-plugin-router": "^4.5.11",
@@ -21,12 +25,18 @@
     "@vue/cli-service": "^4.5.11",
     "@vue/eslint-config-prettier": "^6.0.0",
     "babel-eslint": "^10.1.0",
+    "bootstrap": "^4.6.0",
     "eslint": "^6.8.0",
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-vue": "^6.2.2",
+    "firebase": "^8.2.5",
+    "jquery": "^3.5.1",
     "node-sass": "^4.14.1",
+    "popper.js": "^1.16.1",
     "prettier": "^1.19.1",
     "sass-loader": "^8.0.2",
+    "sweetalert": "^2.1.2",
+    "vue-carousel": "^0.18.0",
     "vue-template-compiler": "^2.6.12"
   },
   "eslintConfig": {
